@@ -40,12 +40,12 @@ class MovieList extends React.Component {
     });
   }
 
-  detailClick() {
-    console.log("detail click");
+  detailClick = () => {
+    console.log("detailClick");
     this.setState({ setOpen: true });
   }
 
-  closeClick() {
+  closeClick = () => {
     console.log("closeClick");
     this.setState({ setOpen: false });
   }
@@ -122,7 +122,7 @@ class MovieList extends React.Component {
                     </Modal.Description>
                   </Modal.Content>
                   <Modal.Actions>
-                    <Button color="black" onClick={this.closelClick}>
+                    <Button color="black" onClick={this.closeClick}>
                       Back
                     </Button>
                   </Modal.Actions>
