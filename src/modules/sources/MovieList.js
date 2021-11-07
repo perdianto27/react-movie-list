@@ -122,9 +122,7 @@ class MovieList extends React.Component {
                     </Modal.Description>
                   </Modal.Content>
                   <Modal.Actions>
-                    <Button color="black" onClick={this.closeClick}>
-                      Back
-                    </Button>
+                  
                   </Modal.Actions>
                 </Modal>
               </Card.Content>
