@@ -5,7 +5,7 @@ Simple movie list from IMDb API
 
 Tech :
 - Reactjs
-- https://imdb-api.com/en/API/Top250Movies
+- https://imdb-api.com/en/API/Top250Movies/k_quzyc85y
 - Axios
 
 Demo
