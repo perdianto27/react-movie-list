@@ -7,6 +7,7 @@ Tech :
 - Reactjs
 - https://imdb-api.com/en/API/Top250Movies/k_quzyc85y
 - Axios
+- Semantic UI
 
 Demo
 - npm cache clean --force
